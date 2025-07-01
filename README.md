@@ -33,7 +33,7 @@ A simple Python script that checks the upcoming weather forecast using the OpenW
 ## 🔒 Security Tip
 - Never share your email password or API key. Use environment variables or .env files, and add .env to your .gitignore if pushing to GitHub.
 
-##📄 License
+## 📄 License
 - MIT License
 
 ## Contact
