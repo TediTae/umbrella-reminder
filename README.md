@@ -20,10 +20,10 @@ A simple Python script that checks the upcoming weather forecast using the OpenW
 1. **Clone the repository**
 2. pip install requests.
 3. Set up your environment variables
-  - fill your credentials directly in the script:
-  - api_key = "YOUR_OPENWEATHERMAP_API_KEY"
-  - USER = "your_email@gmail.com"
-  - PASSWORD = "your_app_password"
+    - fill your credentials directly in the script:
+    - api_key = "YOUR_OPENWEATHERMAP_API_KEY"
+    - USER = "your_email@gmail.com"
+    - PASSWORD = "your_app_password"
 4. Run the script : main.py
 
 ## 📌 Notes
